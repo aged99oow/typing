@@ -1,0 +1,1644 @@
+# 2023/6/28
+# 
+# -------------------------------------------------- Prologue ----
+#
+A very strange thing happened.
+とても奇妙なことが起きた。
+Amanda is a very good student.
+アマンダはとても優秀な学生だ。
+Bill likes Amanda.
+ビルはアマンダを気に入っている。
+Amanda goes to school at 8 a.m.
+アマンダは午前８時に学校へ行く。
+A strange thing happened.
+奇妙なことが起きた。
+A strange thing happened to me yesterday.
+奇妙なことが昨日私に起きた。
+Amanda was a very good student.
+アマンダはとても優秀な学生だった。
+Bill became Amanda's husband.
+ビルはアマンダの夫になった。
+Bill likes Amanda very much.
+ビルはアマンダをとても気に入っている。
+Bill gave Amanda a birthday present.
+ビルはアマンダに誕生日プレゼントをあげた。
+Bill made Amanda his wife.
+ビルはアマンダを彼の妻にした。
+# Amanda is a very good student. ---- Prologue
+# アマンダはとても優秀な学生だ。
+# Bill likes Amanda very much. ---- Prologue
+# ビルはアマンダをとても気に入っている。
+Jenny is not a very good student.
+ジェニーはそれほど優秀な学生ではない。
+Tom does not like Amanda very much.
+トムはアマンダをそれほど気に入っていない。
+Is Amanda a very good student?
+アマンダはとても優秀な学生ですか？
+Does Bill like Amanda very much?
+ビルはアマンダをとても気に入っていますか？
+Is Amanda Bill's wife or Tom's wife?
+アマンダはビルの妻ですか、それもとトムの妻ですか？
+# Does Bill like Amanda or Jenny?
+# ビルはアマンダを気に入っていますか、それともジェニーを気に入っていますか？
+Bill likes Amanda, doesn't he?
+ビルはアマンダを気に入ってますよね？
+Be a good boy.
+いい子にしなさい。
+Take your umbrella to school.
+学校に傘を持って行きなさい。
+Don't be late for school.
+学校に遅れないようにしなさい。
+Let's have dinner together.
+一緒に夕食を食べましょう。
+Let's not waste time.
+時間を無駄にするのはやめましょう。
+Let me help you.
+私に手伝わせてください。
+How beautiful she is!
+彼女はなんて美しいんだろう！
+How fast time passes!
+時間はなんて速く過ぎるんだろう！
+What a smart boy he is!
+彼はなんて利口な少年なんだろう！
+How smart a boy he is!
+彼はなんて利口な少年なんだろう！
+How beautiful!
+なんて美しいんだろう！
+What a smart boy!
+なんて利口な少年なんだろう！
+My dream is to be a singer.
+私の夢は歌手になることだ。
+Do you know the girl sitting next to John?
+ジョンの隣に座っている女の子を知っていますか？
+Let's go to the museum!
+美術館に行きましょう！
+Everyone knows that exercise is important.
+誰もが運動は大切だということを知っている。
+This is the car that I bought last week.
+これは私が先週買った車です。
+When I was a child, I wanted to be a soccer player.
+子どもだったころ、私はサッカー選手になりたかった。
+My hobby is playing the piano.
+私の趣味はピアノを弾くことだ。
+I want to buy a new cellphone.
+私は新しい携帯電話を買いたい。
+What she told me was a lie.
+彼女が私に言ったことはうそだった。
+# The point is that you have to study harder.
+# 重要なのは、あなたがもっと一生懸命に勉強しなければならないということだ。
+Do you know who is coming to the party tomorrow?
+誰が明日のパーティーに来るか知っていますか？
+I have a lot of work to do today.
+私は今日、しなければならない仕事がたくさんある。
+What is the language spoken in Brazil?
+ブラジルで話されている言葉は何ですか？
+My grandmother is in good shape for her age.
+私の祖母は年の割には健康だ。
+I want to see the movie that you were talking about.
+私はあなたが話していた映画を見てみたい。
+Do you remember the day when we first met?
+私たちが最初にあった日を覚えていますか？
+Yuko went to the airport to see off her American friend.
+ユウコはアメリカ人の友人を見送るために空港へ行った。
+Frankly speaking, I don't like my job.
+率直に言うと、私は自分の仕事が好きではない。
+She was born on December 24, 1990.
+彼女は１９９０年の１２月２４日に生まれた。
+Mozart started composing music when he was at the age of five.
+モーツァルトは５歳の時に音楽の作曲を始めた。
+She was absent from school because she had the flu.
+インフルエンザにかかったので、彼女は学校を休んだ。
+What would you do if you had 100 million yen?
+１億円を持っていたら、何をしますか？
+# -------------------------------------------------- Chapter 1 ----
+#
+The moon goes around the earth.
+月は地球の周りを回っている。
+Ben resembles his father.
+ベンは父親に似ている。
+Mary is my girlfriend.
+メアリーは私のガールフレンドだ。
+Dorothy was my girlfriend.
+ドロシーは私のガールフレンドだった。
+You are my best friend.
+あなたは私の親友だ。
+You were my best friend.
+あなたは私の親友だった。
+Angela cooks dinner every night for family.
+アンジェラは毎晩、家族のために夕食を作る。
+Her husband cooked dinner last night.
+彼女の夫は昨晩、夕食を作った。
+Jack goes to church every Sunday.
+ジャックは毎週日曜日に教会に行く。
+Jack and I went to the movie last night.
+ジャックと私は昨晩、その映画を見に行った。
+Daniel smiled at Nancy.
+ダニエルはナンシーにほほ笑みかけた。
+She kissed him gently.
+彼女は彼に優しくキスをした。
+Hiromi ran to Taro.
+ヒロミはタロウの所へ走って来た。
+My uncle runs several restaurants in Osaka.
+私のおじは大阪で何軒かのレストランを経営している。
+Emmy wrote a letter to her parents yesterday.
+エミーは昨日、両親に手紙を書いた。
+I have more than 300 CD's.
+私はＣＤを３００枚以上持っている。
+After the car hit the boy, he remained unconscious for two days.
+自動車にはねられた後、その少年は２日間にわたって意識不明だった。
+The leaves turn red in fall.
+葉は秋に赤く染まる。
+She told us nothing about it.
+彼女は私たちにそのことについて何も言わなかった。
+I found it difficult to succeed in that business.
+私はその事業で成功するのは難しいと分かった。
+We looked at the pictures in the museum for several hours.
+私たちは数時間、その美術館で絵画を見た。
+# The members have discussed the merits of opening a new local airport.
+# 議員たちは新しい地方空港を開港することの利点について議論してきた。
+Mother looks happiest when she is cooking.
+母は料理をしている時が一番楽しそうに見える。
+I often enjoy listening to classical music.
+私はよくクラシック音楽を聴いて楽しむ。
+Brian is going to marry one of his colleagues.
+ブライアンは彼の同僚の１人と結婚する予定だ。
+Please fill out the form and turn it in at window No.3.
+その用紙に必要事項を記入して、３番窓口に提出してください。
+Stop talking and get on with that work.
+話をするのをやめて、その仕事を続けなさい。
+We paid a visit to a famous temple on that occasion.
+私たちはその時に有名な寺を訪ねた。
+You walk on and I'll catch up with you later.
+歩き続けてください。私は後であなたに追いつきますから。
+His voice sounded strange on the phone.
+彼の声は電話で変なふうに聞こえた。
+Jim found Sue a good job.
+ジムはスーにいい仕事を見つけてあげた。
+I think it dangerous to go into the forest without a guide.
+ガイドなしでその森に入るのは危険だと思う。
+Mary didn't realize it was a holiday until she arrived at school.
+学校に着くまで、メアリーはその日が休日だと気がつかなかった。
+They all appreciated their host mother's help and support.
+彼らは皆、ホストマザーの助けと支えを感謝した。
+# -------------------------------------------------- Chapter 2 ----
+#
+I lost my key.
+私は鍵をなくした。
+I have lost my key.
+私は鍵をなくしてしまった。
+Greg usually leaves the office around 6 p.m.
+グレッグはいつも午後６時ごろに会社を出る。
+Water boils at 100 degrees Celsius.
+水はセ氏１００度で沸騰する。
+Greg left the office at 9 p.m. tonight.
+グレッグは今夜、午後９時に会社を出た。
+Susan will be 30 years old next month.
+スーザンは来月、３０歳になる。
+I'll get it.
+（電話がなって）私が出ます。
+"Where is Nick?" "He's playing in the backyard."
+「ニックはどこだい？」「彼は裏庭で遊んでいるわ。」
+Paul was playing a video game when his mother came home.
+母親が家に帰って来た時、ポールはテレビゲームをしていた。
+Linda has just gone out.
+リンダはちょうど出かけたところだ。
+I have known Lucy for 10 years.
+私はルーシーとは１０年以来の知り合いだ。
+My brother is sick in bed.
+私の兄は病気でベッドに寝ている。
+I don't often get sick, but now and then I do catch a cold.
+私はあまり病気にならないが、時々風邪をひく。
+Plants breathe in carbon dioxide and breathe out oxygen.
+植物は二酸化炭素を吸い、酸素を吐く。
+He will be glad to see you when he comes home.
+彼が帰って来たら、あなたに会えて喜ぶだろう。
+I will throw away these clothes unless you want to keep then.
+しまおうとしないなら、これらの服を捨てますよ。
+I was taught at school that the earth goes around the sun.
+地球は太陽の周りを回っていると、私は学校で教わった。
+Why don't we wait for Bill at the restaurant until he comes?
+ビルが来るまで、レストランで彼を待ったらどうでしょうか？
+Be quiet, please. I am talking on the telephone.
+静かにしてください。私は電話で話しているところなんです。
+Fortunately, business is getting better all the time.
+幸いにも、事業はずっと好転してきている。
+Cindy is moving to London next week.
+シンディーは来週、ロンドンに引っ越す。
+Kevin liked math when he was in junior high school.
+ケビンは中学生の時は数学が好きだった。
+I went to Hawaii last week.
+私は先週、ハワイへ行った。
+# My mother always warned me not to talk to strangers.
+# 私の母は、見知らぬ人に話しかけないようにと、いつも私に注意したものだ。
+Lisa was cooking dinner when the earthquake occurred.
+地震が起きた時、リサは夕飯を料理していた。
+His parents left at 9 o'clock last night.
+彼の両親は昨夜９時に出発した。
+According to the TV news, tomorrow will be cloudy.
+テレビニュースによれば、明日は曇りになる。
+# It doesn't look like the report is going to be completed by tomorrow.
+# 明日までにはレポートは仕上がりそうもない。
+# Don't call me tonight, I'll be doing very important work then.
+# 今夜は私に電話をしないでください。その時間はとても大切な仕事をしていますから。
+The shop will be closing soon.
+その店はまもなく閉店するだろう。
+# Surely, the train has left the staion; there is nobody on the platform.
+# 確かに、その電車は駅を出てしまっていますね。ホームに誰もいませんから。
+Have you ever visited our website?
+私たちのウェブサイトをこれまでに見たことはありますか？
+The earth has existed for more than four billion years.
+地球は４０億年以上にわたって存在している。
+It is five years since Jim went to New York.
+ジムがニューヨークに行ってから５年がたつ。
+Five years have passed since Jim went to New York.
+ジムがニューヨークに行ってから５年がたつ。
+When did you finish the report?
+あなたはいつその報告書を書き終えましたか？
+He finally came at 6 o'clock. I had waited for him since 4:30.
+彼は６時にやっと来た。私は彼を４時半から待っていた。
+Eliza had known the fact before her husband told it to her.
+夫が彼女に話す前に、イライザはその事実を知っていた。
+I will have lived in Tokyo for three years next year.
+私は来年で東京に３年間住んでいることになる。
+It has been snowing very hard since last Friday.
+先週の金曜日から雪がとても激しく降り続いている。
+My boss got angry because I hadn't been keeping my desk clean.
+私が自分の机の整頓をしないでいたので、上司は起こった。
+You are late. We have been waiting for you for an hour.
+遅いですよ。私たちはあなたを１時間も待ち続けていたんですよ。
+Let's go home before it rains.
+雨が降る前に家に帰ろう。
+This rock group's new album is selling very well right now.
+このロックグループの新しいアルバムは、現在売れ行きが絶好調だ。
+You may go home as soon as you have finished the work.
+その仕事が終わったらすぐに家に帰ってよい。
+Linving costs have risen almost 2 percent since last April.
+去年の４月以降、生活費はほぼ２パーセント上昇している。
+I went to China several times on business last year.
+私は去年、仕事で中国に数回行った。
+# -------------------------------------------------- Chapter 3 ----
+#
+Kate can speak Japanese.
+ケイトは日本語を話すことができる。
+Robert might arrive soon.
+ロバートはそろそろ到着するかもしれない。
+You must study harder.
+あなたはもっと一生懸命勉強しなければならない。
+You ought to apply for the job.
+あなたはその仕事に応募したほうがいい。
+I used to travel a lot.
+私は以前は旅行をたくさんしたものだった。
+Denis could read and write at the age of three.
+デニスは３歳の時には読み書きができた。
+You may go now.
+もう行ってもよろしい。
+I cannot stand his behavior!
+彼の態度には我慢できない！
+You ought not to tell lies.
+うそをつくべきではない。
+I didn't use to like coffee.
+私は以前はコーヒーが嫌いだった。
+May I ask you a question?
+１つ質問してもいいですか？
+Ought I to apologize to her?
+私は彼女に謝るべきでしょうか？
+Did you use to smoke?
+以前はよくたばこを吸いましたか？
+You need not worry about it.
+そのことについては心配する必要はありません。
+How dare you say such a thing to me?
+よくもそんなことを私に言えますね。
+It is a pity that she might have to leave Japan.
+彼女が日本を離れなければならないかもしれないとは残念だ。
+Sam should be here in an hour.
+サムは１時間後にここに来るはずだ。
+Befor we hire him, we must look into his background.
+彼を雇う前に、私たちは彼の経歴を調査しなければならない。
+Tom must have something to do with this case.
+トムはこの事件と関係があるに違いない。
+They lock the gate at 11 o'clock. We mustn't be late.
+彼らは１１時に門に鍵をかける。私たちは遅れてはならない。
+The street is wet; it must have rained during the night.
+道がぬれている。夜の間に雨が降ったに違いない。
+He said he used to be a trumpet player in a band.
+彼はかつてはバンドのトランペット奏者だったと言った。
+I believe those students are used to walking a long distance.
+その生徒たちは長い距離を歩くのに慣れていると私は思います。
+I might as well stay at home as join in a package tour.
+パックツアーに参加するくらいなら、家にいるほうがましだ。
+May I borrow the book when you have finished reading it?
+あなたが読み終わったら、その本を借かりてもいいですか？
+I used to go there regularly, but now I seldom go there.
+私はそこへ定期的に行ったものだが、今ではめったに行かない。
+The road is wet. It must have rained last night.
+道路がぬれている。昨日の夜、雨が降ったに違いない。
+What kinds of books did you use to read as a child?
+子どものころ、あなたはどんな本をよく読みましたか？
+Would you mind taking off your shoes when you come inside?
+家の中に入る時には、靴を脱いでいただけませんか？
+# -------------------------------------------------- Chapter 4 ----
+#
+Richard has two cars and a motorcycle.
+リチャードは２台の自動車と１台のオートバイを持っている。
+Angela prefers wine to beer.
+アンジェラはビールよりワインのほうが好きだ。
+Arthur is moving to a new apartment in a week.
+アーサーは１週間後に新しいアパートに引っ越す予定だ。
+There are five families in the apartment.
+そのアパートには５つの家族が住んでいる。
+I prefer classical music to pop music.
+私はポップ音楽よりクラシック音楽のほうが好きだ。
+Rain is drops of water.
+雨は水のしずくだ。
+Dr.Smith graduated from Harvard University in 1980.
+スミス博士は１９８０年にハーバード大学を卒業した。
+This is Richard's motorcycle.
+これはリチャードのオートバイだ。
+The roof of my house was blown away by the strong winds.
+強風で私の家の屋根が吹き飛ばされた。
+I want a new PC.
+私は新しいパソコンが欲しい。
+Once upon a time there was a girl named Cinderella.
+昔々ある所に、シンデレラという名前の女の子がいました。
+Arthur moved to a new apartment last week.
+アーサーは新しいアパートに先週引っ越した。
+Lock the door when you go out.
+外出するときはドアに鍵をかけなさい。
+My friend gave me a piece of advice about purchasing land.
+私の友人は、土地の購入に関する忠告を私に１つしてくれた。
+He made it his lifework to help the poor.
+彼は貧しい人たちを助けることを一生の仕事にした。
+There is room for one more at the table.
+テーブルには、あと１人分のスペースがある。
+Make sure that the poor are properly cared for.
+貧しい人たちが適切に面倒を見てもらえるようにしてください。
+What's the matter? Are you having trouble opening the can?
+どうしましたか？その缶を開けるのが大変なのですか？
+Could we have more cups of coffee here, please?
+こちらにもっと多くのコーヒーをいただけますか？
+Seventy pounds is too much for you to carry.
+７０ポンドはあなたが運ぶには重過ぎる。
+# -------------------------------------------------- Chapter 5 ----
+#
+I like to watch old movies.
+私は古い映画をみるのが好きだ。
+The lady was charming.
+その女性は魅力的だった。
+I found the lecture boring.
+私はその講義を退屈だと思った。
+Some students found the lecture interesting.
+何人かの学生はその講義を面白いと思った。
+Paul Auster is a famous auther.
+ポール・オースターは有名な作家だ。
+Barcelona is a city famous for its architecture and art.
+バルセロナは建築と芸術で有名な都市だ。
+Kenji was still asleep at noon when I called him.
+正午に電話をかけた時、ケンジはまだ眠っていた。
+I found Kate alone in the classroom.
+私はケイトが教室に１人でいるところを見かけた。
+My wife and I married in our late 30's.
+妻と私は３０歳代の後半に結婚した。
+Matt is always late for work.
+マットはいつも仕事に遅刻する。
+The game was exciting.
+その試合はエキサイティングだった。
+We were excited about the game.
+私たちはその試合に興奮した。
+# We need someone strong to help move the piano from our house.
+# 家からピアノを運ぶのを手伝ってくれる力の強い人を私たちは必要としている。
+Dumping industrial waste into rivers is strictly prohibited.
+産業廃棄物を川に捨てることは厳しく禁止されている。
+Bill spent too much time considering this plan.
+ビルはこの計画について検討するのにあまりに多くの時間を費やした。
+He always has a lot of good advice to give us.
+彼は私たちに多くのよいアドバイスをいつも与えてくれる。
+He paid a large amount of money for his new car.
+彼は新車に多くのお金を支払った。
+It was sensible of her to have decided not to join the plot.
+そのたくらみに加わらないことを決めたとは彼女は賢明だった。
+# I was tired and hungry, but fortunately I had a little money left.
+# 私は疲れておなかが減っていたが、幸いにもお金が少し残っていた。
+There were quite a few interesting things to see.
+見るべきものがかなりたくさんあった。
+Last August there were few rainy days in Japan.
+昨年の８月は、日本では雨の日がほとんどなかった。
+Many Japanese people have little awareness of privacy invasion.
+多くの日本人はプライバシー侵害の意識がほとんどない。
+Any book will do as long as it is interesting.
+面白ければ、どんな本でも役に立つ。
+She made almost no mistakes on the exam.
+彼女はその試験でほとんど間違えなかった。
+She made very few mistakes on the exam.
+彼女はその試験でほとんど間違えなかった。
+# I told them to stop talking, but they didn't pay any attention.
+# 私は彼らに話すのをやめるように言ったが、彼らは少しも耳を貸さなかった。
+# You can catch any of these buses. They all go downtown.
+# これらのバスのうちのどれでも乗ることができます。すべてが街の中心部に行きます。
+All the spectators got excited about Ichiro's two-base hit.
+すべての観客はイチローの２ベースヒットに興奮した。
+I watched the movie standing because every seat was taken.
+すべての席が座られているので、私はその映画を立ち見した。
+No large lakes are found in the state of South Carolina.
+サウスカロライナ州には大きな湖が全くない。
+I wanted to drink beer but there was none in the refrigerator.
+私はビールを飲みたかったが、冷蔵庫には１本もなかった。
+I go to the library evey other day.
+私は１日おきにその図書館に行く。
+No amount of money can buy true friendship.
+どんな額のお金も真の友情を買うことはできない。
+There is a handle on each side of the box.
+その箱の両側には取っ手がついている。
+Both his parents will come to Gifu next Monday.
+彼の両親は来週の月曜日に岐阜に来るつもりだ。
+There are many shops on either side of the road.
+通りの両側にはたくさんの店がある。
+I don't need both these books.
+これらの本の両方は必要ない。
+Neither of them seems happy with his performance.
+彼らのどちらも、彼の演技に満足していないようだ。
+Lots of new computer paper has been found.
+たくさんの新しいコンピューター用紙が見つかった。
+# Each computer, printer, and monitor is checked every week.
+# それぞれのコンピューター、プリンター、そしてモニターは毎週、点検される。
+"Is there any milk left in the fridge?" "Yes, there is some."
+「冷蔵庫に牛乳は残っていますか？」「はい、あります。」
+I am sorry but that is all we can do at this end.
+申し訳ありませんが、それがこちらでできる精いっぱいのことです。
+You can have either of these.
+どちらかをあげましょう。
+# -------------------------------------------------- Chapter 6 ----
+#
+Do you remember that?
+あなたはあのことを覚えていますか？
+It is difficult for me to solve this mathematical problem.
+この数学の問題を解くのは私には難しい。
+She likes him.
+彼女は彼のことを気に入っている。
+Can I borrow this?
+これを借りてもいいですか？
+I need a Japanese-English dictionary. Do you have one?
+和英辞書が必要なんです。持っていますか？
+They invited us.
+彼らは私たちを招待した。
+She used to live with me.
+彼女は以前、私と暮らしていた。
+We went to his house yesterday.
+私たちは昨日、彼の家に行った。
+We had a lot of rain last summer.
+去年の夏は雨がたくさん降った。
+You never know what will happen in the future.
+将来に何が起きるかは決して分からない。
+They say Mary will get married next year.
+メアリーは来年結婚するといううわさだ。
+Do you know his name?
+彼の名前を知っていますか？
+I want to buy this computer.
+私はこのコンピューターを買いたい。
+Would you like another cup of coffee?
+コーヒーをもう１杯いかがですか？
+You are responsible for your own future.
+あなたは、あなた自身の将来に責任がある。
+Our house is smaller than yours.
+私たちの家はあなたの家よりも小さい。
+I came across an old friend of mine on the platform.
+私はプラットフォームで旧友に偶然出会った。
+Our president prided himself on his self-control.
+私たちの社長は自分の自制心を誇っていた。
+They have done all of the work themselves.
+彼らはその仕事のすべてを彼ら自身で行った。
+I cannot find may dictionary; someone must have hidden it.
+私の辞書が見当たらない。誰かがそれを隠したに違いない。
+Is there any proof that the knife was his.
+そのナイフは彼の物だったという証拠はあるのですか？
+Help yourself to some strawberries.
+いちごをご自由にお召し上がりください。
+If you need a Japanese-English dictionary, I'll lend you one.
+もし和英辞書が必要だったら、１冊お貸ししますよ。
+It was such a hot morning that he stopped studying English.
+とても暑い朝だったので、彼は英語を勉強するのをやめた。
+It was shocking for Mary to learn that her bike had been stolen.
+自分の自転車が盗まれたことを知ってメアリーは驚いた。
+It is a fact that there are more cars in Los Angeles than people.
+ロサンゼルスでは人よりも車のほうが多いというのは事実だ。
+Ted found it difficult to eat with chopsticks.
+テッドははしで食べるのは難しいと分かった。
+I want to make it clear that I don't agree with this policy.
+私はこの方針に賛成していないことをはっきりさせておきたい。
+It is this book that I bought yesterday.
+私が昨日買ったのはこの本です。
+It is no wonder the two nations hate each other.
+その両国がお互いを嫌っているということは少しも不思議ではない。
+She takes it for granted that her parents love her very much.
+彼女は両親が彼女をとても愛しているということを当然だと思っている。
+It was in 1912 that the Titanic sank during her first voyage.
+タイタニック号が処女航海中に沈没したのは１９１２年だ。
+The climate of Tokyo is milder than that of Hokkaido.
+東京の気候は北海道の気候より温暖だ。
+The students in the U.S. are so different from those in Japan.
+アメリカの学生は日本の学生とはかなり違う。
+The majority of those present voted yes to his proposal.
+出席者の大多数は彼の提案に賛成票を投じた。
+Mary is a lady. She expects to be treated as such.
+メアリーは貴婦人だ。彼女はそのような人として扱われると思っている。
+It was such a lovely day that we were feeling happy and cheerful.
+とても素晴らしい日だったので、私たちはうれしく快活に感じていた。
+The 2006 fashions are very differnet from those of 2005.
+２００６年の流行は２００５年の流行とかなり違う。
+I'd like to go on another trip.
+私はまた旅行に行きたい。
+He left school without exchanging a word with anyone.
+彼は誰とも言葉を交わさずに学校を去った。
+# There were two roses on the table; one was red and the other yellow.
+# テーブルの上にバラが２本あった。１本は赤いバラで、もう１本は黄色いバラだった。
+Please make yourself at home.
+どうぞ楽にしてください。
+To know the rules is one thing, but to play the game is another.
+ルールを知るのと、そのゲームをするのとは別のことだ。
+This problem has nothing todo with you.
+この問題はあなたとは関係がない。
+# -------------------------------------------------- Chapter 7 ----
+#
+My daughter came home late tonight.
+娘は今夜、遅く帰宅した。
+Gary loves Cindy deeply.
+ゲーリーはシンディーを深く愛している。
+This comic book is very interesting.
+この漫画本はとても面白い。
+Hiroko works pretty hard.
+ヒロコはとても熱心に働く。
+Fortunately, no one was injured in the incident.
+幸いにも、その事故で誰もけがをしなかった。
+Hiroshi read the poem slowly.
+ヒロシはその詩をゆっくりと朗読した。
+I often visit my grandparents.
+私は祖父母をよく訪ねる。
+It will be sunny today.
+今日は晴天になるでしょう。
+Please read the instructions carefully.
+使用説明書を注意深く読んでください。
+Put the box there.
+その箱をそこに置きなさい。
+Jack is going to the movies with his friends tonight.
+ジャックは今夜、友達と一緒に映画を見に行く予定だ。
+I almost finished my homework.
+私は宿題をほとんど終わらせた。
+I always get up at 6:40 a.m.
+私はいつも午前６時４０分に起きる。
+It was very windy yesterday.
+昨日はとても風が強かった。
+She solved the problem quite easily.
+彼女はその問題をいとも簡単に解いた。
+Bill is rich enough to buy the car.
+ビルはその車が買えるほど金持ちだ。
+He didn't move to Dublin. He still lives in London.
+彼はタブリンに引っ越さなかった。彼はまだロンドンに住んでいる。
+Have you read today's paper yet?
+今日の新聞をもう読みましたか？
+When Bill got to school, the class had started already.
+ビルが学校に着いた時には、授業はもう始まっていた。
+Jack lost his job a year ago and is still unemployed.
+ジャックは１年前に仕事を失って、まだ失業中だ。
+You're late. The meeting finished 30 minutes ago.
+遅いですよ。会議は３０分前に終わりましたよ。
+I thought I had seen the man a week before.
+私は１週間前にその男性を見たと思った。
+The meat was so tough that it felt like rubber.
+その肉はとても硬かったので、ゴムのような感じがした。
+It's so beautiful a day today that we should go outside.
+今日はとても天気がいい日なので、私たちは外へ行くべきだ。
+This question is too difficult for me to answer at once.
+この問題はあまりに難しくて私にはすぐには解けない。
+This is too good an opportunity to lose.
+これはあまりに絶好のチャンスなので逃すことはできない。
+Her work was almost completed.
+彼女の仕事はほとんど完了した。
+Almost all Japanese like to eat rice.
+ほとんどすべての日本人は米を食べるのが好きだ。
+Most Japanese have a TV.
+ほとんどの日本人はテレビを持っている。
+# The train was so crowded that there was little room for me to move.
+# 電車はとても込んでいたので、私が動けるスペースはほとんどなかった。
+The rent of this apartment is too high for me to pay.
+このアパートの家賃は高すぎて私には払えない。
+Almost all of the students missed the train.
+学生たちのほとんどすべてはその電車に乗り遅れた。
+There are hardly any flowers in our garden.
+私たちの庭には花がほとんどない。
+He rarely visits me even though he lives nearby.
+近くに住んでいるにもかかわらず、彼はめったに私を訪ねて来ない。
+My wife usually doesn't drink coffee at night, and neither do I.
+私の妻は普段は夜にコーヒーを飲まないし、私もそうしない。
+He couldn't make it to the party, and neither could I.
+彼はパーティーに間に合うことができなかった、私もできなかった。
+It was so cold this afternoon that hardly anybody went swimming.
+今日の午後はとても寒かったので、ほとんど誰も水泳に行かなかった。
+We seldom go to the movies, only once or twice a year.
+私たちはめったに映画を見に行かない。１年にたったの１度か２度だ。
+San Diego never gets snowstorms and Las Vegas doesn't either.
+サンディエゴは決して吹雪にならない。ラスベガスもまたならない。
+# "Will you go shopping this afternoon?" "No, and neither will Mary."
+# 「今日の午後は買い物に行くつもりかい？」「いいえ、それにメアリーもそうしないわ。」
+Turn right immediately after the church.
+教会のすぐ後に右に曲がってください。
+The lecture spoke too fast for anyone to understand.
+講演者の話は早過ぎて誰も理解できなかった。
+# -------------------------------------------------- Chapter 8 ----
+#
+Yoshio decided to study abroad.
+ヨシオは留学しようと決心した。
+Clara helped cook dinner.
+クララは夕食を作るのを手伝った。
+The doctor made me quit smoking.
+その医者は私にたばこを吸うのをやめさせた。
+I heard someone call my name.
+誰かが私の名前を呼ぶのが聞こえた。
+Dennis forgot to lock the door when he left.
+デニスは出かける前にドアに鍵をかけるのを忘れた。
+Mayumi was surprised to hear the news.
+マユミはそのニュースを聞いて驚いた。
+I have a lot of work to do.
+私にはしなければならない仕事がたくさんある。
+I intend to study medicine in college.
+私は大学で医学を勉強するつもりだ。
+My dream is to be a doctor.
+私の夢は医者になることだ。
+I want to visit Peru in the future.
+私は将来ペルーに行ってみたい。
+I need someone to help me.
+私は私を手伝ってくれる人を必要としている。
+I went to the bank to withdraw money.
+私はお金を下ろすために銀行へ行った。
+He promised not to tell anyone about it.
+彼はそのことについては誰にも言わないと約束した。
+Nelson pretended to be doing his homework.
+ネルソンは宿題をしているふりをした。
+Beth seems to have lost weight.
+ベスはやせたように見える。
+I don't like to be treated like a kid.
+私は子供のように扱われたくない。
+To do on time is one of the duties of a businessman.
+時間を守ることはビジネスマンの義務の１つだ。
+Try not to hurt others.
+他人を傷つけないようにしなさい。
+Steve has decided not to keep his old computer.
+スティーブは古いコンピューターを取っておかないことにした。
+It was careless of me to leave the door unlocked.
+ドアの鍵をかけなかったとは私の不注意だった。
+I don't have the courage to ask my boss to lend me his car.
+私には上司に彼の車を貸してくれと頼む勇気がない。
+Sally got up early so as not to miss the first train.
+始発電車に乗り遅れないようにサリーは早く起きた。
+I awoke to find Kate staring at me.
+私は目を覚ますと、ケイトが私を見つめているのに気づいた。
+She studied hard only to fail in the examination.
+彼女は一生懸命勉強したが、結局は試験に落ちた。
+I was very sorry to have missed the beginning of the concert.
+私はコンサートの最初の部分を見逃してとても残念だった。
+She was reluctant to join the club.
+彼女はそのクラブに入りたがらなかった。
+Mary is hard to talk to.
+メアリーは話しかけにくい。
+# I went all the way to see my doctor, only to find him out of the office.
+# 私はわざわざ医者に診てもらいに行ったが、彼が外出中だと分かっただけだった。
+The children were thrilled to see the animation film.
+子どもたちはそのアニメ映画を見てわくわくした。
+Harry knew what to do next.
+ハリーは次に何をすべきか分かっていた。
+They were fighting over where to go for dinner.
+彼らは夕食を食べにどこへ行くべきかで口論していた。
+I seem to have lost my camera somewhere.
+私はどこかでカメラをなくしたようだ。
+I happened to see my old friends in the train heading for London.
+私はロンドンへ向かう電車の中で旧友たちに偶然出会った。
+She decided not to rely on him.
+彼女は彼を信頼しないことにした。
+Those days, he didn't know whom to consult with.
+その当時、彼は誰に相談すべきか分からなかった。
+Could you tell me how to get to the station?
+駅への行き方を教えてくれませんか？
+He is planning to go to the post office this afternoon.
+彼は、今日の午後に郵便局に行くつもりだ。
+Mr.Brown told his son not to touch his piano.
+ブラウン氏は彼のピアノに触れるなと息子に言った。
+Please remind me to ring up the client after lunch.
+（忘れていたら）昼食後に顧客に電話するよう私に言ってください。
+The boys were kind enough to help her carry the luggage.
+その少年たちは親切にも彼女が手荷物を運ぶのを手伝ってくれた。
+Keiko's parents wouldn't let her go out alone.
+ケイコの両親はどうしても彼女を１人で外出させなかった。
+This dress makes me look fat.
+この服を着ると私は太って見える。
+Something I hear you and my sister talk on the phone at midnight.
+時々、あなたと私の妹が真夜中に電話で話すのが聞こえる。
+Taking a warm bath may help you sleep better.
+温かいお風呂に入れば、あなたはよく眠れるようになるだろう。
+The sign reads, "Please let the elderly sit in these seats."
+「お年寄りにこちらの席をお譲りください」と表示に書いてある。
+# Caesar entered the town only to find that the enemy had already fled.
+# シーザーはその街に侵略したが、敵が既に逃げたのを見つけただけだった。
+You are not supposed to smoke on campus.
+キャンパス内ではたばこを吸ってはいけないことになっている。
+Please let me know if there is anything I can do for you.
+私に何かできることがあればお知らせください。
+# She waved goodbye with tears in her eyes as she watched him drive away.
+# 彼が車で去っていくのを見守りながら、彼女は目に涙を浮かべてさようならと手を振った。
+# -------------------------------------------------- Chapter 9 ----
+#
+Exercising is good for your health.
+運動することは健康にいい。
+Kenji admitted stealing the money.
+ケンジはそのお金を盗んだことを認めた。
+Kazuo denied stealing the money.
+カズオはそのお金を盗んでいないと言った。
+Seeing is believing.
+見ることは信じることである。百聞は一見にしかず。
+Driving in rain is very different from driving in dry conditions.
+雨の中を運転するのは、乾燥状態で運転するのとはかなり違う。
+My hobby is collecting antiques.
+私の趣味は骨とう品を集めることだ。
+She finished writing the report.
+彼女はその報告書を書き終えた。
+Lucy regrets not having bought the dress.
+ルーシーはそのドレスを買わなかったことを後悔している。
+I hate being laughed at.
+私は笑われるのが嫌いだ。
+# Seeing is believing. ---- Chapter 9
+# 見ることは信じることである。百聞は一見にしかず。
+My daughter likes playing the piano.
+私の娘はピアノを弾くのが好きだ。
+I'm interested in seeing the movie.
+私はその映画を見たいと思っている。
+# The real estate agent had trouble selling the building and had to lower the price.
+# その不動産業者はビルを売却することができず、価格を下げなければならなかった。
+# There is no telling what might come next in the present political situation.
+# 現在の政治状況では次に何が起こるか分からない。
+I regret not having worked harder.
+私はもっと一生懸命に働かなかったことを後悔している。
+I have a strong objection to being treated like this.
+私はこのように扱われることに強い異論を持っている。
+Would you mind my borrowing your history book until tomorrow?
+あなたの歴史の本を明日までお借りしてもいいですか？
+Not a week passed without our class having a small quiz.
+私たちのクラスでは毎週必ず小テストが行われた。
+# Getting more exercise, most experts agree, is the best way to lose weight.
+# ほとんどの専門家たちが同意してくれるように、より多くの運動をすることはやせるための一番の方法だ。
+He apologized to his friend for not taking care of the book.
+彼はその本を大事にしなかったことを友達に謝った。
+My sister insisted on my solving the problem by myself.
+私の姉は、私がその問題を独力で解くことを強く求めた。
+Tom asked if we would like to ride to work in his car today.
+トムは、私たちが今日彼の車に乗って仕事に行きたいかどうか尋ねた。
+I always enjoy listening to jazz while I'm driving.
+私は運転中はいつもジャズを聴いて楽しむ。
+I prefer reading at home to going out to parties.
+私はパーティーに出かけるよりも、家で読書をするほうが好きだ。
+I prefer to read at home rather than go out to parties.
+私はパーティーに出かけるよりも、家で読書をするほうが好きだ。
+I clearly remember locking the door before going to school.
+私は学校に行く前にドアに鍵をかけたことをはっきり覚えている。
+This bicycle needs fixing.
+この自転車は修理が必要だ。
+We managed to sell the old house by advertising it in the paper.
+私たちは新聞に広告を出すことで、その古い家をどうにか売った。
+She needs to leave now, if she is going to catch the last train.
+終電に乗るつもりなら、彼女は今出る必要がある。
+# Stop worrying about making mistakes. Just try and do your best.
+# 間違いを犯すのを心配するのはやめなさい。ただチャレンジして最善を尽くしなさい。
+Don't forget to post the letter on your way home.
+家に帰る途中にその手紙を出すのを忘れないでください。
+# -------------------------------------------------- Chapter 10 ----
+#
+A drowning man will catch at a straw.
+おぼれる者はわらをもつかむ。
+I swept fallen leaves in front of my house.
+私は家の前の落ち葉を掃除した。
+Walking along the street, I met an old friend of mine.
+通りを歩いている時に、私は旧友に出会った。
+Look at the man standing over there.
+あそこに立っている男性を見てごらん。
+Standing for a long time is tiring.
+長い間立っているのは疲れる。
+Not knowing the company's phone number, I dialed 104.
+その会社の電話番号が分からなかったので、私は１０４を押した。
+# Having graduated from high school, she entered the University of Tokyo.
+# 高校を卒業後、彼女は東京大学に入学した。
+Maps made in the United States place the U.S. in the center.
+アメリカで作られた地図は、アメリカを中心にしている。
+I saw some students walking out of the building.
+何人かの学生がその建物からでてくるのが見えた。
+She kept everybody waiting for half an hour.
+彼女はみんなを３０分待たせた。
+You should have that tooth pulled out.
+あなたはその歯を抜いてもらったほうがいい。
+Akiko had her bag stolen and lost all her money.
+アキコはかばんを盗まれて、お金をすべて失った。
+We are supposed to send back detailed reports to the manager.
+私たちは詳細な報告書を部長に送り返すことになっている。
+Could you go and give this paper to the woman wearing glasses.
+眼鏡をかけたあの女性にこの紙を渡しに行ってくれますか？
+I can't imagine her working in New York.
+私は彼女がニューヨークで働いているのを想像できない。
+I'm thinking of having my photograph taken at the studio.
+私は自分の写真をそのスタジオで撮ってもらおうと考えている。
+Educated in the United States, he is fluent in English.
+アメリカで教育を受けたので、彼は英語に堪能だ。
+I will visit your home by all means, weather permittig.
+天気がよければ、必ずあなたの家を訪問します。
+Generally speaking, we feel good after exercising.
+一般的に言うと、運動の後は気分がよくなる。
+Written in easy English, beginners can read it.
+優しい英語で書かれているので、初心者はそれを読むことができる。
+I saw Dick come out of the woods carrying a little bird.
+私は、小鳥を手にしながらディックが森から出てくるのを見た。
+She was sitting there with her eyes closed.
+彼女は目を閉じてそこに座っていた。
+Built in the 17th century, the house is the oldest in the town.
+１７世紀に建てられたので、その家は町で一番古い。
+There being no devidence against him, Jack was released.
+不利な証拠がなかったので、ジャックは釈放された。
+Being sick, John can't attend the meeting in Tokyo.
+病気なので、ジョンは東京での会議に出席できない。
+I had my hat blown off by the wind.
+私は風で帽子を吹き飛ばされてしまった。
+The audience came out of the lecture hall looking inspired.
+聴衆は啓示を受けたような表情をしながら講堂から出てきた。
+# -------------------------------------------------- Chapter 11 ----
+#
+A lot of CD's are sold at that store.
+あの店ではたくさんのＣＤが売られている。
+Her parents love Mary.
+彼女の両親はメアリーを愛している。
+Mary is loved by her parents.
+メアリーは彼女の両親に愛されている。
+He is always scolded by his teacher.
+彼は先生にいつもしかられる。
+He was scolded by his teacher.
+彼は先生にしかられた。
+He will be scolded by his teacher.
+彼は先生にしかられるだろう。
+He is being scolded by his teacher.
+彼は先生にしかられている。
+He has been scolded by his teacher.
+彼は先生にしかられてきた。
+# I don't like to be treated like a kid.　---- Chapter 8
+# 私は子どものように扱われたくない。
+# I hate being laughed at. ---- Chapter 9
+# 私は笑われるのが嫌いだ。
+The building was destroyed by the earthquake.
+そのビルは地震で倒壊した。
+The package was delivered around noon.
+その小包は正午ごろに届けられた。
+My passport was stolen in the airport.
+私のパスポートが空港で盗まれた。
+Our next meeting will be arranged early next month.
+私たちの次の会議は来月初めに計画されるだろう。
+He was told to make up his mind by the following week.
+彼は翌週までに決心するように言われた。
+I was made to work all day last Sunday.
+私はこの前の日曜日に一日中働かされた。
+The question will be dealt with in the next lesson.
+その問題は次の授業で扱われるだろう。
+He was greatly disappointed at not finding her at home.
+彼女が家にいなかったので、彼はとてもがっかりした。
+Michael noticed that the trash can was filled with nonburnables.
+マイケルは、ごみ入れが不燃物でいっぱいになっていることに気づいた。
+The ball game was called off beacuse of the heavy rain.
+豪雨のため、野球の試合は中止になった。
+It is said that there is a secret garden behind this house.
+この家の裏には秘密の庭があるそうだ。
+The World Cup soccer games are televised all over the world.
+ワールドカップのサッカーの試合は、世界中でテレビ放送される。
+The town was founded by the English in 1790.
+その街は１７９０年にイギリス人によって創設された。
+The game on the main court was interruped by a brief shower.
+メインコートの試合は短時間のにわか雨で中断された。
+The portrait of the president was hang in the conference room.
+社長の肖像画が会議室に掛けられていた。
+Man's life is often likened to a voyage.
+人の人生はしばしば航海に例えられる。
+The building was occupied by its owners.
+その建物は所有者たちによって占有されていた。
+# -------------------------------------------------- Chapter 12 ----
+#
+Who do you love now?
+あなたは今、誰を愛していますか？
+How are your parents?
+ご両親はお元気ですか？
+Who wrote this novel?
+誰がこの小説を書いたのですか？
+Who is your teacher?
+あなたの先生は誰ですか？
+What do you usually do on weekends?
+あなたは週末に普通は何をしますか？
+Which is your favorite color?
+あなたの好きな色はどれですか？
+Whose is this umbrella?
+この傘は誰の物ですか？
+When did you go to Korea?
+あなたは韓国にいつ行きましたか？
+Where do you want to go for dinner tonight?
+あなたは今夜の夕食を食べにどこへ行きたいですか？
+Why did you do such a thing?
+あなたはなぜそんなことをしたのですか？
+How did you come to know our company?
+あなたは私たちの会社をどのようにして知りましたか？
+How often do you go to the movies?
+あなたはどれくらいよく映画を見に行きますか？
+What size are your shoes?
+あなたの靴はどのサイズですか？
+Which digital camera do you recommend?
+あなたはどのデジタルカメラをお勧めしますか？
+Whose bag is this?
+これは誰のかばんですか？
+Who did you go there with?
+あなたはそこへ誰と行ったのですか？
+With whom did you go there?
+あなたはそこへ誰と行ったのですか？
+How about going for a walk?
+散歩に行きませんか？
+Why don't you change your mind?
+考え直してみたらどうですか？
+I don't understand what you are talking about.
+あなたが何について話しているのか私には分からない。
+He wanted to find out what would make her happy.
+何が彼女を幸せにするか彼は知りたがっていた。
+I don't know when Tom is coming to his office today.
+今日、トムはいつオフィスに来るか私は分からない。
+Do you know what has become of him?
+彼がどうなったか知っていますか？
+When do you think the war will be over?
+その戦争はいつ終わると思いますか？
+Please tell me what time the airplane will arrive.
+その飛行機が何時に到着するか教えてください。
+Do you know from whom she got that jewel?
+彼女が誰からその宝石をもらったか知っていますか？
+Who do you think will vote?
+誰があなたに投票すると思いますか？
+Which of you can solve this problem?
+あなたのうちの誰がこの問題を解けますか？
+How large do you think the population of Tokyo is?
+東京の人口はどのくらい多いと思いますか？
+What do you say to going to the movies next Sunday?
+今度の日曜日に映画を見に行きませんか？
+What did Professor Nakagawa learn German for?
+なぜナカガワ教授はドイツ語を学んだのだろう？
+That looks like a perfect job for you. Why don't you apply for it?
+それはあなたにぴったりの仕事のようですね。申し込んだらどうですか？
+"I want something to drink." "How about some coffee?"
+「何か飲みたいなあ。」「コーヒーはどう？」
+# -------------------------------------------------- Chapter 13 ----
+#
+Anne is as tall as her mother.
+アンは母親と同じ背の高さだ。
+Jack is taller than his father.
+ジャックは父親よりも背が高い。
+Nick is the tallest in his family.
+ニックは家族の中で一番背が高い。
+Kate is as charming as Mary.
+ケイトはメアリーと同じくらい魅力的だ。
+Tom runs as fast as I.
+トムは私と同じくらい足が速い
+Bill is not as tall as Sean.
+ビルはショーンほどは背が高くない。
+Paul is as good a person as Jimmy.
+ポールはジミーと同じくらいいい人だ。
+Tadashi is older than I.
+タダシは私より年上だ。
+Children learn language more quickly than adults.
+子供は大人よりも早く言葉を覚える。
+The Nile is the longest river in the world.
+ナイル川は世界で一番長い川だ。
+Steve studies most seriously of all his classmates.
+スティーブはクラスメート全員の中で一番まじめに勉強する。
+This computer is much cheaper than that one.
+このコンピューターはそのコンピューターよりもずっと安い。
+That house is a little more expensive than this one.
+その家はこの家よりも少し値段が高い。
+Dave is by far the best player on this baseball team.
+デイブはこの野球チームでまさしく最高の選手だ。
+Dave is the very best player on this baseball team.
+デイブはこの野球チームでまさしく最高の選手だ。
+I speak German as well as he does.
+私は彼と同じくらい上手にドイツ語を話す。
+Solving the problem was more difficult than we had thought.
+その問題を解くのは私たちが考えていたよりも難しかった。
+This morning it was much cooler than yesterday morning.
+今朝は、昨日の朝よりもずっと涼しかった。
+Katherine is the older of my two daughters.
+キャサリンは私の２人の娘の年上のほうだ。
+Mary is more wise than intelligent.
+メアリーが頭がよいというよりむしろ賢い。
+This is not as difficult a question as it seemed at first.
+これは初めに思ったほど難しい問題ではない。
+He is not so much a genius as a man of diligence.
+彼は天才ではなく、むしろ勤勉家だ。
+Mary is as pretty as her sister, Sara.
+メアリーは彼女の姉のサラに劣らずかわいらしい。
+Mary is no less pretty than her sister, Sara.
+メアリーは彼女の姉のサラに劣らずかわいらしい。
+This is the very best wine I've ever tasted.
+これは私がこれまでに飲んだ中でまさしく最高のワインだ。
+This is the second largest company in our city.
+これは私たちの街で２番目に大きい会社だ。
+No other boy in his class is as tall as Tom.
+トムほど背の高い男の子は彼のクラスにいない。
+No other boy in his class is taller than Tom.
+トムより背の高い男の子は彼のクラスにいない。
+Tom is taller than any other boy in his class.
+トムは彼のクラスのほかのどの男の子よりも背が高い。
+I have never seen such a tall girl as Hruko.
+ハルコは私がこれまで会った中で一番背が高い女の子だ。
+Haruko is the tallest girl I have ever seen.
+ハルコは私がこれまで会った中で一番背が高い女の子だ。
+Nothing is more beautiful than cheerfulness in an old face.
+年を重ねた顔に宿る明るさよりも美しいものはない。
+Susan is taller than any other member of the family.
+スーザンは家族の中のほかの誰よりも背が高い。
+The small one costs half as much as the larger one.
+小さいほうは大きいほうの半額です。
+This used piano is much less expensive than that new one.
+この中古ピアノはその新しいピアノよりずっと安い。
+My sister is two years senior to me.
+私の姉は私より２歳年上だ。
+Hilary is more energetic than any other newly hired employee.
+ヒラリーは新しく採用されたほかのどの従業員よりも活動的だ。
+Asia is by far larger than Australia.
+アジアはオーストラリアよりもはるかに広い。
+# -------------------------------------------------- Chapter 14 ----
+#
+Laura and I went to a French restaurant last night.
+ローラと私は昨夜、フランス料理店に行った。
+To be or not to be: that is the question.
+生きるか死ぬか、それが問題だ。
+I went to the bookstore, but it was already closed.
+私はその本屋に行ったが、既に閉まっていた。
+My wife likes dogs, but I like cats.
+私の妻はイヌが好きだが、私はネコが好きだ。
+My son was playing a video game when I came home.
+私が帰宅した時、息子はテレビゲームをしていた。
+He woke up and washed his face.
+彼は目を覚ますと、顔を洗った。
+Excuse me, but may I ask you a question?
+すみませんが、質問をしてもいいですか？
+I haven't been to America or Europe.
+私はアメリカにもヨーロッパにも行ったことがない。
+Hisashi asked me if I knew Miki's E-mail address.
+ヒサシは私に、私がミキのメールアドレスを知っているかどうか尋ねた。
+Yumi was absent from work because she was sick.
+病気だったので、ユミは仕事を休んだ。
+You'd better go now; otherwise you will miss the train.
+もう出発したほうがいいですよ。さもなければ、電車に乗り遅れますよ。
+I think it will be sunny tomorrow.
+明日は天気になるだろうと思います。
+Please ask me if you have a question.
+質問がありましたら私に聞いてください。
+# He drank not only several glasses of whiskey but also a bottle of wine.
+# 彼は何杯かのウイスキーだけでなく、ボトル１本のワインも飲んだ。
+# Place your trust in your ability, and you will never fail completely.
+# 自分の能力を信用しなさい。そうすれば完全に失敗することはないでしょう。
+The man I saw was neither tall nor short.
+私が見た男性は、背が高くも低くもなかった。
+We should leave immediately, or else we'll miss the flight.
+私たちはすぐに出発すべきです。さもないと飛行機に乗り遅れます。
+# That he didn't marry her was a big surprise to us.
+# 彼が彼女と結婚しなかったということは、私たちにとって大きな驚きだった。
+The fact that he passed the examination made everyone happy.
+彼がその試験に合格したという事実はみんなを幸せにした。
+I felt his arm gently to see if any bones were broken.
+骨が折れているかどうか調べるため、私は彼の腕を静かに触ってみた。
+It all depends on whether or not he's got the time.
+すべては彼に時間があるかどうかにかかっている。
+Many Japanese get nervous when spoken to by foreigners in English.
+多くの日本人は、外国人に英語で話しかけられると緊張する。
+While walking down the street, I ran into an old friend.
+通りを歩いている時に、私は旧友に偶然出会った。
+My car was stolen while I was away in New Zealand.
+私がニュージーランドに行っていた間に、私の車が盗まれた。
+I must wait until Cathy arrives.
+私はキャシーが到着するまで待たなくてはならない。
+It is not until we lose our health that we realize its value.
+健康を損なって初めて私たちはそのありがたみを知る。
+My mother has been in good health ever since she got to Japan.
+日本に着いて以来ずっと、母は健康状態がよい。
+As soon as you arrive there, please call me.
+そこに到着したらすぐに、私に電話してください。
+The moment he heard the fire bell, he rushed out of the building.
+火災警報ベルを聞くとすぐに、彼はビルから飛び出した。
+You will never enjoy watching the game until you learn the rules.
+ルールを覚えるまでは、その競技の観戦は決して楽しめないだろう。
+It is some 20 years since she moved to California.
+彼女がカリフォルニアに引っ越してから２０年ほどになる。
+I'm going to get a job as soon as I graduate.
+私は卒業したらすぐに就職するつもりです。
+No sooner had he arrived in the city than his wallet was stolen.
+彼がその街に到着するとすぐに、彼の財布が盗まれた。
+I won't go to the event because I have a cold.
+風邪をひいているので、私はそのイベントには行かないだろう。
+# I couldn't get in touch with you since your phone was busy all day.
+# 電話が一日中話し中だったので、あなたに連絡を取ることができなかった。
+She got a job so that she could be independent of her parents.
+両親から独立するために、彼女は就職した。
+He didn't tell the truth for fear she should get angry.
+彼女が怒るのを恐れて、彼は真実を伝えなかった。
+The morning was so beautiful that we decided to walk.
+その朝はとても素晴らしい天気だったので、私たちは歩くことに決めた。
+It was such a bad snowstorm that they shut the airport down.
+とてもひどい吹雪だったので、彼らは空港を閉鎖した。
+Please let me know if you are not satisfied with dinner.
+夕食にご満足いかないようでしたら、お知らせください。
+The laundry won't dry quickly unless it's sunny.
+日が照っていなければ、洗濯物はすぐには乾かないだろう。
+# Take this sweater with you in case it should get cold in the evening.
+# 夕方に寒くなった場合に備えて、このセーターを一緒に持って行きなさい。
+It was so cold that I could not swim in the river.
+あまりに寒かったので、私はその川で泳げなかった。
+It was too cold for me to swim in the river.
+あまりに寒かったので、私はその川で泳げなかった。
+Unless you require emergency treatment, don't call 119.
+緊急治療が必要でなければ、１１９番に電話しないでください。
+# We don't have to wait; he isn't coming today, as far as I know.
+# 私たちは待つ必要はありません。というのも、私が知る限りでは、彼は今日は来ないからです。
+# Exhausted as she was, she stayed up all night to finish the job.
+# 疲れ切っていたけれども、その仕事を終わらせるために彼女は一晩中寝ずに起きていた。
+You had better do as you were told.
+あなたは言われたようにしたほうがいい。
+He speaks as if he knew everything.
+彼はまるで何でも知っているかのように話す。
+Our teacher used to say, "Tell it as it is."
+私たちの先生は「ありのままに言いなさい」とよく言ったものだ。
+You look as if you saw a ghost. 
+まるで幽霊でも見ているかのような顔つきですね。
+# You should visit Universal Studios Japan while you are in Osaka.
+# 大阪にいる間に、あなたはユニバーサル・スタジオ・ジャパンに行ったほうがいい。
+I'll be studying until dinner is ready.
+夕食の準備ができるまで、私は勉強をしているだろう。
+I left home at 8 p.m. so that I could catch the train.
+その電車に乗るために、私は午後８時に家を出た。
+# You should write down Satsuki's number in case you forget it.
+# 忘れるといけないので、あなたはサツキの電話番号を書いておいたほうがいい。
+# -------------------------------------------------- Chapter 15 ----
+#
+If the weather is good tomorrow, we will go for a drive.
+明日天気がよかったら、私たちはドライブに行く。
+If the weather were good, we would go for a drive.
+天気がよければ、私たちはドライブに行くのだが。
+Her father suggested that she study law.
+彼女の父親は彼女が法律を学ぶように提案した。
+If I were you, I would study medicine.
+もし私があなただったら、医学を勉強するだろう。
+If I had studied harder, I would have passed the exam.
+もっと一生懸命に勉強していたら、私はその試験に受かっただろう。
+It is essential that you be present at every class.
+あなたはすべての授業に出席する必要があります。
+If I knew her phone number, I would call her.
+彼女の電話番号を知っていれば、彼女に電話するだろう。
+If I had known her phone number, I would have called her.
+彼女の電話番号を知っていたなら、彼女に電話しただろう。
+It's time I went home.
+そろそろ私は家に帰る時間だ。
+I wish I knew her phone number.
+彼女の電話番号を知っていればなあ。
+His father insisted that John stop smoking at home.
+ジョンの父親は、ジョンが家でたばこを吸うのをやめることを要求した。
+# It is essential that every child have the same educational opportunities.
+# すべての子どもが同じ教育の機会を持つことが必要だ。
+If I were 10 years younger, I would learn karate.
+１０歳若ければ、空手を習うのに。
+If I had known that she was there, I would hove gone to see her.
+彼女がそこにいたことを知っていれば、彼女に会いに行ったのに。
+If it were not for water, we could not live.
+水がなければ、私たちは生きられないだろう。
+Without your advice, I couldn't have done it.
+あなたの助言がなかったら、私はそれをできなかっただろう。
+But for your advice, I couldn't have done it.
+あなたの助言がなかったら、私はそれをできなかっただろう。
+If I should be able to try again, I would do my best.
+もう１度挑戦できるなら、私は最善を尽くすだろう。
+# Had it not been for your help, I could not have made her happy.
+# あなたの援助がなかったら、私は彼女を幸せにすることはできなかっただろう。
+The teacher suggested that he study harder.
+その先生は、もっと熱心に勉強するよう彼に勧めた。
+# Had I found Mike stealing may car, I would have called the police.
+# マイクが私の車を盗んでいるところ見つけていたら、私は警察を呼んだだろう。
+It's about time she come to the party.
+そろそろ彼女がパーティーに来てもいいころだ。
+The beach was beautiful! I wish could have stayed longer.
+そのビーチはきれいだった！もっと長く滞在できていたらなあ。
+# -------------------------------------------------- Chapter 16 ----
+#
+This is the book which I bought yesterday.
+これは私が昨日買った本です。
+This is the office where I work.
+これは私が働いているオフィスです。
+I have a friend who is an accountant.
+私には会計士をしている友人がいる。
+Next Monday is the day when school starts.
+来週の月曜日は学校が始まる日だ。
+I like a person who is honest.
+私は正直な人が好きだ。
+He is writing a book which will be published this summer.
+彼はこの夏に出版される本を書いているところだ。
+I couldn't hear what he said.
+私は彼が行ったことを聞き取れなかった。
+I remember when I first met her.
+私は彼女に初めてあった日を覚えている。
+I remember where I first met her.
+私は彼女に初めてあった場所を覚えている。
+Tell me why you were late.
+遅刻した理由を言いなさい。
+# They were both traveling across the U.S., and that's how they first met.
+# 彼らは２人ともアメリカ横断の旅をしていて、そうするうちに彼らは初めて出会った。
+I have a son who is a lawyer.
+私には弁護士をしている息子がいます。
+I have a son, who is a lowyer.
+私は息子が１人いますが、彼は弁護士をしています。
+There are many people who enjoy golfing nowadays.
+近ごろはゴルフを楽しむ人がたくさんいる。
+I don't know the name of the man to whom I spoke on the phone.
+私は電話で話した男性の名前を知らない。
+That is the house in which they lived 10 years ago.
+あれは彼らが１０年前に住んでいた家だ。
+The woman whose bicycle was stolen challed the police.
+自転車を盗まれた彼女が警察に電話をした。
+The plate that fell off the table was broken.
+テーブルから落ちた皿は割れた。
+I lost the CD that she had given me for my birthday.
+私は彼女が誕生日にくれたＣＤをなくしてしまった。
+She put the dress she wanted to wear on the bed.
+彼女は着たい服をベッドの上に置いた。
+Thank you very much for everything you have done for me.
+私のためにいろいろとしていただき、どうもありがとうございます。
+What is interesting to him may not be attractive to her.
+彼にとって面白いものが、彼女には魅力的ではないかもしれない。
+Thank you, Hiromi. This book is exactly what I wanted.
+ありがとう、ヒロミ。この本は私がちょうど欲しかったものです。
+Do what you believe is right.
+正しいとあなたが信じていることをしなさい。
+She is content with what she is now.
+彼女は今の自分に満足している。
+Hawaii is a place where the warm sun shines all year round.
+ハワイは、一年中暖かい日が差している場所だ。 
+Our city is now very different from what it was 20 years ago.
+現在の私たちの街は、２０年前とはかなり違っている。
+This is one case where you have to be especially cautious.
+これは、あなたが特に慎重にならなければならないケースだ。
+I will lend this book to whoever wants to read it.
+読みたい人には誰にでもこの本をお貸しします。
+Whatever he says, I will go to New York.
+彼が何を言おうとも、私はニューヨークに行くだろう。
+# You can go wherever you like, as long as you are back in time.
+# 行きたい所ならどこへでも行っていいですよ。遅れずに帰ってくるのならね。
+However careful you may be, accidents will happen.
+どんなに注意しても、事故は起こるものだ。
+No matter what happens, he will not accept your offer.
+どんなことが起ころうとも、彼はあなたの申し出を受け入れないだろう。
+Some people cannot sleep well no matter how tired they are.
+どんなに疲れていても、よく眠れない人もいる。
+However busy you are, never fail to sleep at least six hours.
+どんなに忙しくても、少なくとも６時間は必ず眠りなさい。
+Whatever happens, you must not leave here.
+どんなことが起ころうとも、ここを離れてはいけません。
+You must not leave here, no matter what happens.
+どんなことが起ころうとも、ここを離れてはいけません。
+No matter when you go, that small shop is full.
+いつ行っても、その小さな店は込んでいる。
+She is a TV personality who hosts her own program.
+彼女は自分の番組の司会をしているテレビタレントです。
+Look at the man and the dog that are running in the park.
+公園を走っている人とイヌを見てごらん。
+She is modest, and what is more, very beautiful.
+彼女は慎み深く、その上とても美しい。
+Pack some clothes and whatever else you need for the trip.
+服を何着か、それに、旅行に必要なほかの物もすべて詰め込みなさい。
+Whoever is able to drive can take part in it.
+運転ができる人は誰でもそれに参加できる。
+# -------------------------------------------------- Chapter 17 ----
+#
+I leave for school at eight every day.
+私は毎日８時に学校へ行く。
+There were many people in the amusement park on that day.
+その日は遊園地にはたくさんの人がいた。
+I was late because of the traffic accident.
+私は交通事故のため遅刻した。
+There is a bus stop in front of the hotel.
+ホテルの前にバス停がある。
+She was surprised at the news.
+彼女はそのニュースに驚いた。
+What do you want for dinner?
+夕食に何を食べたいですか？
+I commute by train.
+私は電車で通勤している。
+This spoon is made of silver.
+このスプーンは銀でできている。
+My wife and I went to Ginza for dinner yesterday.
+妻と私は昨日、銀座へ夕食に行った。
+Bob is good at mathematics.
+ボブは数学が得意だ。
+To my delight, I passed the entrance exam.
+うれしいことに、私は入試に合格した。
+This is a question of great importance.
+これは非常に重要な問題だ。
+My grandfather is in good health.
+私の祖父は健康だ。
+They found the elevator out of order.
+彼らはそのエレベーターが故障しているのに気づいた。
+He is at work now.
+彼は今、仕事中だ。
+This is a book on Chinese history.
+これは中国史に関する本だ。
+Nick is from New York.
+ニックはニューヨーク出身だ。
+I want a house with a garage.
+私は車庫つきの家が欲しい。
+I'm older than my wife by four years.
+私は妻より４歳年上だ。
+We have to stay in the room until 2:30 p.m.
+私たちは午後２時半までその部屋にいなければならない。
+He didn't come until 10 o'clock last night.
+彼は昨夜、１０時まで来なかった。
+# I'll try to finish the report by his weekend at the latest.
+# 私は遅くとも今週末までにそのレポートを書き終えるように努力するつもりだ。
+Using your mobile phone during class is strictly forbidden.
+授業中に携帯電話を使うことは厳しく禁じられている。
+Apart from some rainy days, our trip to Hokkaido was great.
+何日かの雨の日を別とすれば、私たちの北海道旅行は素晴らしかった。
+Mr.Suzuki gave up smoking for the sake of his health.
+スズキさんは健康のためたばこをやめた。
+Modern society relies heavily on fossile fuels.
+現代社会は化石燃料に大きく依存している。
+I owe my success to your kindness.
+私の成功はあなたの親切心のおかげた。
+Professor Tanaka is familiar with criminal law.
+タナカ教授は刑法を熟知している。
+According to Sally, we won't have class this coming Friday.
+サリーによると、今度の金曜日は授業がないとのことだ。
+My friend is going to fly back to California by way of Hawaii.
+私の友人はハワイ経由でカリフォルニアへ飛行機で帰る予定だ。
+She reminds me of her mother.
+彼女を見ると彼女の母親を思い出す。
+He is accustomed to expressing his own ideas clearly in public.
+彼は人前で自分の考えをはっきり述べるのに慣れている。
+My long-term goal is of great importance to me.
+私の長期目標は、私にとって非常に重要だ。
+The train was delayed due to a traffic accident.
+交通事故のため、その電車は遅れた。
+With respect to English, she was the best in her class.
+英語に関しては、彼女はクラスで一番だった。
+# -------------------------------------------------- Chapter 18 ----
+#
+# Recently the number of young people traveling abroad has remarkably increased.
+# 最近、海外旅行をする若者の数が著しく増えている。
+# Not only Tom but also Kent was fired due to their poor sales averages.
+# トムだけでなくケントも平均売上高が低かったために解雇された。
+At no time was John ever serious about his studies.
+ジョンがかつて学業に真剣だったことは一度もない。
+Everybody except Jim and her knows the effect of the medicine.
+ジムと彼女以外の全員は、その薬の効き目を知っている。
+Fifty percent of the students work after school.
+学生の５０パーセントが放課後に働いている。
+At no time have so many people been interested in soccer.
+これほど多くの人がサッカーに興味をもったことはこれまでなかった。
+# -------------------------------------------------- WEEK1 ----
+#
+During the war, it was hard to obtain food.
+戦争中は食料を手に入れるのが難しかった。
+Her house collapsed due to the hurricane.
+彼女の家はハリケーンで崩壊した。
+He revealed his real self in the magazine interview.
+雑誌のインタビューで彼は本当の自分をさらけ出した。
+The dictionary defines the world as British slang.
+その辞書はその語を英語の俗語と定義している。
+The country is governed by the ruling classes.
+その国は支配階級によって統治されている。
+My attention was engaged by the article.
+私はその記事に注意を引かれた。
+How can you justify spending so much money on a watch?
+腕時計にそんな大金を使ったことをどうやって正当化できるんだい？
+I associate peace with happiness.
+私は平和を幸福と結びつけて考えている。
+He wove a basket out of strips of bamboo.
+彼は細長くした竹でかごを編んだ。
+# The hotel  room was so small that I couldn't extend my legs.
+# そのホテルの部屋はとても狭かったので、足を伸ばすことができなかった。
+Jill will deposit 10 percent of her pay into a savings account.
+ジルは給料の１０パーセントを普通預金口座に預金するつもりだ。
+I can't resist calling her.
+私は彼女に電話するのを我慢できない。
+Some people criticized his new romance novel.
+彼の新しい恋愛小説を避難する人がいた。
+I saw the train emerge from a long tunnel.
+私はその電車が長いトンネルから出てくるのを見た。
+The mover dragged the heavy box from the house.
+引っ越し業者はその重い箱をその家から引っ張り出した。
+He is going to purchase a new computer for our office.
+彼は私たちのオフィス用に新しいコンピューターを購入する予定だ。
+Don't be discouraged.
+がっかりしないで。
+Leap over the puddle.
+水たまりを飛び越えなさい。
+Grandfather invested all his money in that company.
+祖父は全財産をその会社に投資した。
+She graped her child's hand before crossing the busy street.
+往来の激しい通りを渡る前に、彼女は子どもの手を握った。
+There was a need to shift more resources to health care.
+より多くの資金を医療へ移す必要があった。
+The police accused Tom of damaging a patrol car.
+警察はパトカーを損傷させたとしてトムを訴えた。
+Tommy remarked that he was getting fired.
+トミーは会社を首になるだろうと言った。
+The soldiers captured the lion and took it to the zoo.
+兵士たちはライオンを捕獲して動物園に運んだ。
+This bank account yields high interest.
+この銀行の口座は高い利息が付いてくる。
+# I perceived her to be an excellent teacher when I first met her.
+# 私は初めて彼女に会ったときに、彼女が優秀な教師であることが分かった。
+The city will construct a bridge across that river.
+市はその川に橋を建造する予定だ。
+I will endure any hardships.
+どんな苦難も耐え抜くつもりだ。
+The shop owner asserted that Randy stole some good from the shelf.
+その店主はランディーが棚から商品を盗んだと言い張った。
+America declared its independence from England over 200 years ago.
+米国は２００年以上前に英国からの独立を宣言した。
+The sergeant commanded his men to start shooting.
+その軍曹は部下たちに射撃を開始するように命じた。
+He was badly abused as a child.
+子どものころ、彼はひどく虐待された。
+The government has imposed a new tax.
+政府は新しい税金を課した。
+The colors began to fade after too many washings.
+洗いすぎて色があせ始めた。
+We cannot stand by and watch while people starve.
+私たちは人々が餓死するのを傍観することはできない。
+He will retain sole ownership of the company.
+彼はその会社の独占所有権を持ち続けるだろう。
+The heat multiplies the speed of bacterial growth.
+暑さは細菌の繁殖の速さを増やす。
+My boyfriend betrayed me by dating my best fiend.
+私のボーイフレンドは私の親友とデートして私を裏切った。
+The deer vanished into the woods.
+そのシカは森の中に消えた。
+This medical herb will heal and soothe the pain.
+この薬草があなたの痛みを治し、和らげるだろう。
+Rich people are more likely to cheat on income tax.
+金持ちの人々は所得税をごまかしやすい傾向がある。
+I'm not amused by his old jokes.
+彼の古くさいジョークは面白くない。
+Did you submit your ideas to the manager?
+部長に自分の案を提案しましたか？
+How do you pronounce your last name?
+あなたの名字はどう発音しますか？
+The policeman seized the knife from the criminal.
+警官は犯人からナイフをつかみとった。
+He expects his students to obey him.
+彼は生徒たちが自分に従うこと求めている。
+The plan will alter traffic patterns in the city.
+その計画は市の交通パターンを買えるだろう。
+Mr. Jones inherited $3 million from his father.
+ジョーンズ氏は彼の父親から３００万ドルを相続した。
+The refugees were drafting in a boat.
+難民たちはボートで漂流していた。
+They postponed their wedding until he returned from abroad.
+彼らは彼が海外から帰国するまで結婚式を延期した。
+The old woman was deceived by a caller claiming to be a relative.
+その老女は、親類だと名乗る電話の主にだまされた。
+Thousands of people fled the area.
+何千人もの人々がその地域から逃げた。
+# She couldn't stop yawning because she had stayed up all last night.
+# 彼女は昨晩ずっと起きていたので、あくびを止めることができなかった。
+You amaze me with your math ability.
+あなたの数学能力には驚きだ。
+The plane will start to descend soon.
+飛行機は間もなく降下し始めるだろう。
+The tree scattered its leaves on the ground.
+その木は地面に葉をまき散らした。
+I am enclosing some photos with this letter.
+私はこの手紙の中に写真を何枚か同封するつもりだ。
+The main street of the city was decorated with flags.
+市のメインストリートは旗で飾られていた。
+# Let's proceed with this work and not worry about the small details.
+# この仕事を続けて、小さなことを気にするのはやめよう。
+He squeezed her hand and said, "I love you."
+彼は彼女の手を握りしめて、「愛しているよ」と言った。
+I restrained my anger with difficulty.
+私はやっとのことで怒りを抑えた。
+The opposition parties united to criticize the government.
+野党は政府を批判するために団結した。
+He mended his own torn pants.
+彼は破れた自分のズボンを直した。
+His remarks prolonged the meeting.
+彼の意見が会議を長引かせた。
+The parent urged their son to tell the truth.
+両親は息子に真実を話すよう強く迫った。
+A neighbor saw the man creeping into our backyard.
+隣人はその男が私たちの家の裏庭に忍び込んで行くのを見た。
+He was bleeding from a cut that he got while shaving.
+彼はひげそりのときにできた切り傷から血を流していた。
+Skipping meals is a bad way to lose weight.
+食事を抜くのは減量の悪いやり方だ。
+# The famous tennis player is trailing the unknown opponent by two sets.
+# その有名なテニス選手は無名の対戦相手に２セット差で負けている。
+He whipped the horse to make it go faster.
+彼は速く走るように馬をむちで打った。
+Good fortune awaits those who work hard.
+勤勉な人には幸運が待っている。
+He stirred his coffee with a spoon.
+彼はコーヒーをスプーンでかき混ぜた。
+The driver overlooked the sign.
+運転手はその標識を見落とした。
+The hairstylist clipped Mike's hair too short.
+ヘアデザイナーはマイクの紙を短く切りすぎた。
+He smashed his guitar against the floor during the concert.
+コンサート中に、彼は自分のギターを床にたたきつけて粉々にした。
+# I crawled about on my hands and knees looking for the contact lesns.
+# 私は四つん這いになって這い、コンタクトレンズを探した。
+She was scolded for talking on the phone for two hours.
+彼女は電話で２時間も話したことでしかられた。
+They returned the kidnapped child for $1 million.
+彼らは100万ドルと引き換えに誘拐された子どもを渡した。
+The audience clapped their hands when the group came onstage.
+そのグループがステージに登頂すると、聴衆は拍手した。
+I tried to strip the paint from the wall, but I couldn't.
+私は壁からペンキをはがそうとしたが、できなかった。
+They rejoiced at their friend's recovery from illness.
+彼らは友人の病気からの回復を喜んだ。
+She blushes every time she talks to him.
+彼と話すとき、彼女はいつも顔を赤らめる。
+Some people can't digest milk.
+牛乳を消化できない人もいる。
+They scared me with their rude begavior.
+彼らの荒っぽい態度が私を怖がらせた。
+The noise from the street interfered with my work.
+通りから聞こえてくる騒音が私の仕事の邪魔になった。
+The applause from the audience thrilled the guitarist.
+聴衆の拍手がそのギター奏者をぞくぞくさせた。
+I fastened the rope to a post.
+私はそのロープを柱に結び付けた。
+My back aches.
+私は背中が痛い。
+# He said that illegal aliens should be returned to their own country.
+# 不法在留外国人は本国へ送還されるべきだと彼は言った。
+It was a miracle that he wasn't injured.
+彼が負傷しなかったのは奇跡だった。
+Judy won an award for her outstanding novel.
+ジュディは素晴らしい小説で賞を獲得した。
+The fate of the ship was in the hands of the captain.
+その船の運命は船長の手中にあった。
+She had a feeling of guilt about pretending to be ill.
+彼女は仮病を使うことに対して罪悪感を抱いた。
+We created a campaign against domestic violence.
+私たちは家庭内暴力に反対する運動を立ち上げた。
+# Jane is working for an environmental engineering research institute.
+# ジェーンは環境工学の研究機関で働いている。
+The established conventions are changing in Japan.
+日本では古くからの習慣が変わりつつある。
+# Sherlock Holmes is the name of a well-known fictional private detective.
+# シャーロック・ホームズは有名な物語上の私立探偵の名前だ。
+Please push this button in case of emergency.
+緊急の場合はこのボタンを押してください。
+We studied a complex mechanism of the human body.
+私たちは人体の複雑な構造について学習した。
+George Orwell wrote a work of fiction titled "1984."
+ジョージ・オーウェルは「１９８４年」という小説を書いた。
+I like books of every category.
+私はどんなジャンルの本も好きだ。
+My new year's resolutions is achieved to a large extent.
+私の新年の抱負は、かなりの程度まで達成されている。
+Jack was an amateur in terms of boxing.
+ジャックはボクシングについては素人だった。
+The police did not know the circumstances behind the murder.
+警察はその殺人事件の背後にある事情を知らなかった。
+# -------------------------------------------------- WEEK2 ----
+#
+The company will publish an English version of this book.
+その会社はこの本の英語版を出版する予定だ。
+He was the focus of everyone's attension.
+彼はみんなの注目の的だった。
+The detective didn't give up the pursuit of the truth.
+その刑事は真実の追及を諦めなかった。
+Chemistry is my favorite subject.
+化学は私が大好きな科目だ。
+The book sold in excess of 40,000 copies last month.
+その本は先月、４万部を上回る売り上げを記録した。
+# You must show proof of student status to enter the university library.
+# その大学の図書館に入るには学生の身分であるという証明を示さなければならない。
+Students have to handle the chemical compound carefully.
+生徒たちはその化学化合物を十分に注意して扱わなければならない。
+He led a life of luxury in a huge house.
+彼は大きな家でぜいたくな暮らしを送った。
+Trains come at 10-minute intervals.
+電車は１０分おきに来る。
+His fame has changed our relationship.
+彼の名声が私たちの関係を変えてしまった。
+Jessica's been my friend since kindergarten.
+ジェシカは私の幼稚園からの友人だ。
+The kids have huge appetites.
+その子どもたちは食欲旺盛だ。
+In what context should I use this word?
+この単語はどのような文脈で使えばよいですか。
+I travel to many parts of the globe.
+私は世界の多くの場所へ旅した。
+Our corporation is just beginning to make aprofit.
+私の会社はやっと利益を出し始めている。
+I felt an impulse to take her hand.
+私は彼女の手を握りたいという衝動に駆られた。
