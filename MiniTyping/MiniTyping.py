@@ -1,5 +1,5 @@
 #
-# MiniTyping.py 2023/6/28
+# MiniTyping.py 2024/2/18
 #
 try:
     import pyttsx3
@@ -34,6 +34,7 @@ PROPER_NOUN = (
 )
 HINT_RATE = 8
 HINT_FIRST_WORD = True
+
 
 class Shooting:
     def __init__(self, x, y, width, height, rate=200):
@@ -212,10 +213,10 @@ class App:
         self.total_mistake = 0
         self.total_pass = 0
         pyxel.mouse(True)
-        pyxel.sound(0).set('b-1b1', '', '75', '', 4)
-        pyxel.sound(1).set('c#1c1', '', '75', '', 4)
-        pyxel.sound(2).set('e1e-1', '', '53', '', 4)
-        pyxel.sound(3).set('b1g1g1g1', '', '5753', '', 16)
+        pyxel.sounds[0].set('b-1b1', '', '75', '', 4)
+        pyxel.sounds[1].set('c#1c1', '', '75', '', 4)
+        pyxel.sounds[2].set('e1e-1', '', '53', '', 4)
+        pyxel.sounds[3].set('b1g1g1g1', '', '5753', '', 16)
         pyxel.run(self.update, self.draw)
 
     def update(self):
@@ -261,32 +262,34 @@ class App:
         pyxel.stop(1)
 
         if self.pos<len(self.eng_org):
-            if pyxel.input_keys:
-                if pyxel.btnp(pyxel.KEY_SPACE) or pyxel.btnp(pyxel.KEY_CTRL) or pyxel.btnp(pyxel.KEY_SHIFT) or pyxel.btnp(pyxel.KEY_ALT):  # Space,Shift,Ctrl,Alt:Ignoreor
-                    return
-                if pyxel.btnp(pyxel.KEY_RETURN) or pyxel.btnp(pyxel.KEY_KP_ENTER):  # Return:Pass
-                    pyxel.play(1, [2], loop=True)
-                    self.in_pass = True
-                    if not self.sentence_mistake:
-                        self.total_pass += 1
-                elif pyxel.btnp(pyxel.KEY_TAB):  # Tab:Ward Hint
-                    self.hint = self.hint_this_word()
-                elif ord(self.eng_low[self.pos]) in pyxel.input_keys:
-                    pyxel.play(0, [0])
-                    self.pos += 1
-                    self.word_mistake = 0
-                else:
-                    pyxel.play(0, [1])
-                    self.shake = 3
-                    self.word_mistake += 1
-                    if self.word_mistake==2:  # Mistake
-                        pyxel.play(1, [2], loop=True)
-                        self.new_pos = self.pos+1
-                        while self.new_pos<len(self.eng_org) and not self.eng_low[self.new_pos] in NON_WORD:
-                            self.new_pos += 1
-                        if not self.sentence_mistake: 
-                            self.total_mistake += 1
-                            self.sentence_mistake = True
+            if pyxel.btnp(pyxel.KEY_SPACE) or pyxel.btnp(pyxel.KEY_CTRL) or pyxel.btnp(pyxel.KEY_SHIFT) or pyxel.btnp(pyxel.KEY_ALT):  # Space,Shift,Ctrl,Alt:Ignoreor
+                return
+            if pyxel.btnp(pyxel.KEY_RETURN) or pyxel.btnp(pyxel.KEY_KP_ENTER):  # Return:Pass
+                pyxel.play(1, [2], loop=True)
+                self.in_pass = True
+                if not self.sentence_mistake:
+                    self.total_pass += 1
+            elif pyxel.btnp(pyxel.KEY_TAB):  # Tab:Ward Hint
+                self.hint = self.hint_this_word()
+            elif pyxel.btnp(ord(self.eng_low[self.pos])):
+                pyxel.play(0, [0])
+                self.pos += 1
+                self.word_mistake = 0
+            else:
+                for inputkey in range(pyxel.KEY_A, pyxel.KEY_Z+1):
+                    if pyxel.btnp(inputkey):
+                        pyxel.play(0, [1])
+                        self.shake = 3
+                        self.word_mistake += 1
+                        if self.word_mistake==2:  # Mistake
+                            pyxel.play(1, [2], loop=True)
+                            self.new_pos = self.pos+1
+                            while self.new_pos<len(self.eng_org) and not self.eng_low[self.new_pos] in NON_WORD:
+                                self.new_pos += 1
+                            if not self.sentence_mistake: 
+                                self.total_mistake += 1
+                                self.sentence_mistake = True
+                        break
             if pyxel.btnr(pyxel.MOUSE_BUTTON_LEFT) and SMSG_X<=pyxel.mouse_x<SMSG_X+SMSG_WIDTH and SMSG_Y<=pyxel.mouse_y<SMSG_Y+SMSG_HEIGHT:  # Click:Pass
                 pyxel.play(1, [2], loop=True)
                 self.in_pass = True
