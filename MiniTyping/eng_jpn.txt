@@ -1,4 +1,4 @@
-# 2023/6/28
+# 2024/9/8
 # 
 # -------------------------------------------------- Prologue ----
 #
@@ -24,9 +24,9 @@ Bill gave Amanda a birthday present.
 ビルはアマンダに誕生日プレゼントをあげた。
 Bill made Amanda his wife.
 ビルはアマンダを彼の妻にした。
-# Amanda is a very good student. ---- Prologue
+# Amanda is a very good student. ---------- Prologue
 # アマンダはとても優秀な学生だ。
-# Bill likes Amanda very much. ---- Prologue
+# Bill likes Amanda very much. ---------- Prologue
 # ビルはアマンダをとても気に入っている。
 Jenny is not a very good student.
 ジェニーはそれほど優秀な学生ではない。
@@ -762,7 +762,7 @@ Lucy regrets not having bought the dress.
 ルーシーはそのドレスを買わなかったことを後悔している。
 I hate being laughed at.
 私は笑われるのが嫌いだ。
-# Seeing is believing. ---- Chapter 9
+# Seeing is believing. ---------- Chapter 9
 # 見ることは信じることである。百聞は一見にしかず。
 My daughter likes playing the piano.
 私の娘はピアノを弾くのが好きだ。
@@ -880,9 +880,9 @@ He is being scolded by his teacher.
 彼は先生にしかられている。
 He has been scolded by his teacher.
 彼は先生にしかられてきた。
-# I don't like to be treated like a kid.　---- Chapter 8
+# I don't like to be treated like a kid.　---------- Chapter 8
 # 私は子どものように扱われたくない。
-# I hate being laughed at. ---- Chapter 9
+# I hate being laughed at. ---------- Chapter 9
 # 私は笑われるのが嫌いだ。
 The building was destroyed by the earthquake.
 そのビルは地震で倒壊した。
@@ -1046,7 +1046,7 @@ No other boy in his class is taller than Tom.
 トムより背の高い男の子は彼のクラスにいない。
 Tom is taller than any other boy in his class.
 トムは彼のクラスのほかのどの男の子よりも背が高い。
-I have never seen such a tall girl as Hruko.
+I have never seen such a tall girl as Haruko.
 ハルコは私がこれまで会った中で一番背が高い女の子だ。
 Haruko is the tallest girl I have ever seen.
 ハルコは私がこれまで会った中で一番背が高い女の子だ。
@@ -1494,7 +1494,7 @@ He expects his students to obey him.
 彼は生徒たちが自分に従うこと求めている。
 The plan will alter traffic patterns in the city.
 その計画は市の交通パターンを買えるだろう。
-Mr. Jones inherited $3 million from his father.
+Mr.Jones inherited $3 million from his father.
 ジョーンズ氏は彼の父親から３００万ドルを相続した。
 The refugees were drafting in a boat.
 難民たちはボートで漂流していた。
@@ -1612,7 +1612,7 @@ The police did not know the circumstances behind the murder.
 #
 The company will publish an English version of this book.
 その会社はこの本の英語版を出版する予定だ。
-He was the focus of everyone's attension.
+He was the focus of everyone's attention.
 彼はみんなの注目の的だった。
 The detective didn't give up the pursuit of the truth.
 その刑事は真実の追及を諦めなかった。
@@ -1642,3 +1642,205 @@ Our corporation is just beginning to make aprofit.
 私の会社はやっと利益を出し始めている。
 I felt an impulse to take her hand.
 私は彼女の手を握りたいという衝動に駆られた。
+He spent a decade working on that book.
+彼はその本の執筆に１０年間を費やした。
+Your notion of a good student is different from mine.
+君の持っている良い生徒についての考えは、私のと違う。
+They need to face up to the consequence of their actions.
+彼らは自分たちの行動の結果を直視する必要がある。
+Agriculture is the most important industry in that country.
+その国では農業が最も重要な産業だ。
+Most people made a gesture of dissent.
+ほとんどの人が反対の身ぶりをした。
+Australia is a former British colony.
+オーストラリアは英国の旧植民地だ。
+1989 was the end of the Showa era.
+１８９８年は昭和時代の最後の年だった。
+The two countries signed a treaty to reduce strategic weapons.
+両国は戦略兵器を消滅するための条件に調印した。
+The council voted to pass the bill.
+議会はその法案を可決した。
+Munch's paintings express a feeling of despair.
+ムンクの絵は絶望感を表現している。
+Laurel's philosophy of life is to enjoy it as much as possible.
+ローレルの人生哲学は最大限に人生を楽しむことだ。
+India was once part of the British Enpire.
+インドはかつて大英帝国の一部だった。
+Gaelic is still spoken by a tiny minority.
+ゲール語はごくわずかの人々によって今でも話されている。
+Contributions to charities are tax-deductible.
+慈善団体への寄付は税額控除にできる。
+Their first priority is to maintain the quality of the product.
+彼らの最優先事項は製品の品質を保つことだ。
+He drove with caution because it was raining.
+雨が降っていたので、彼は注意して運転した。
+What is the key componet of your success?
+あなたの成功の鍵を握る要素は何ですか。
+He left his entire estate to his only son.
+彼は彼の全財産を一人息子に残した。
+He continued negotiation with his client.
+彼は取引先の交渉を続けた。
+They began a new enterprise after they were fired from their jobs.
+仕事を解雇された後、彼らは新しい事業を始めた。
+He has a large circle of acquaintance.
+彼は知り合いが多い。
+# The government needs to reduce the tax burden on the lower-income class.
+# 政府は低所得者層の税負担を下げる必要がある。
+Chocolate is my favorite flavor of ice cream.
+チョコレートは私の好きなアイスクリームの味だ。
+She liked to paint landscape of mountains and valleys.
+彼女は山や渓谷の風景を描くのが好きだった。
+These clothes are for infants aged six months to one year.
+これらの服は生後６カ月から１歳の幼児向けだ。
+Accoding to the TV, the forecast for tomorrow is sunny skies.
+テレビによると明日の天気予報は晴れだ。
+This machinery can fill 1,000 cans an hour.
+この機械は１時間に缶詰を１０００個詰めることができる。
+Hard work is a guarantee of success.
+勤勉は成功の保証となる。
+The constitution guarantees freedom of religion.
+憲法は信仰の自由を保障している。
+The company plans to increase its car output next year.
+その会社は来年の自動車生産高を増やすことを計画している。
+He has a reputation for being a tough negotiator.
+彼は手ごわい交渉人であるとの評判だ。
+You need discipline of mind and body to become a top athlete.
+一流のスポーツ選手になるには、心身の鍛錬が必要だ。
+# ---------- Day 11
+#
+He stared with envy at my new car.
+彼は私の新車をうらやましそうにじっと見つめた。
+# We were given the privilege of being able to use the auditorium freely.
+# 私たちは講堂を自由に使える権利を与えられた。
+# At 15, her moment of glory came as she became an Olympic champion.
+# １５歳でオリンピックチャンピオンになったときに、彼女の光栄の瞬間が訪れた。
+Parenthood sometimes calls for sacrifice.
+親であることは時に犠牲を必要とする。
+The wildlife in this state is protected by many laws.
+この州の野生動物の多くは法律によって保護されている。
+He was admired for his brave deeds.
+彼は勇敢な行為によって賞賛された。
+The people built a monument to their great leader.
+人々は偉大なる指導者のために記念碑を建てた。
+The plot of this story is too complicated to undersatnd.
+この物語の筋は複雑すぎて理解できない。
+He decided to run for Congress.
+彼は国会に立候補することを決心した。
+The stem of this plant was broken by a strong wind.
+この植物の茎は強風で折れてしまった。
+The hurricane has caused misery for thousands of homeowners.
+そのハリケーンは何千もの住宅所有者に不幸をもたらした。
+My grandmother is a resident of that apartment building.
+私の祖母はあのアパートの居住者だ。
+He's a legal scholar who teaches at Harvard University.
+彼はハーバード大学で教えている法学者だ。
+Both countries are hopeful about the prospects for peace.
+両国は和平の可能性に望みを抱いている。
+The dam was once thought of as man's triumph over nature.
+そのダムは自然に対する人間の勝利とかつて考えられていた。
+# His scheme to get rich quickly failed when the police found out.
+# 手早く金もうけをしようという彼のたくらみは、警察に見つかり失敗した。
+# ---------- Day 12
+#
+He can speak English with no trace of an accent.
+彼はほんのわずかのなまりもなく英語を話すことができる。
+All war is a crime against humanity.
+すべての戦争は人道に背く罪だ。
+Antigovernment rebels have seized the TV station.
+反政府の反逆者たちはテレビ局を奪い取った。
+Fred had no sensation in his feet after the operation.
+手術後、フレッドは両足に感覚がなかった。
+# For the holidays, they are going to the province of Alberta, in Canada.
+# 休暇中に、彼らはカナダのアルバータ州へ行く予定だ。
+The boy broke a couple of the tree's limbs as he fell from it.
+その少年は木から落ちたとき、その木の大枝を２、３本折った。
+She acquired Japanese nationality last year.
+彼女は昨年、日本国籍を取得した。
+The Houses of Parliament are beside the River Thames.
+国会議事堂はテムズ川に面している。
+The territory was invaded by the enemy.
+その領土は敵によって侵略された。
+# The party thought that a stable society needed a single-party cabinet.
+# 安定した社会には１党から成る内閣が必要だとその党は考えていた。
+He was a staffer in the city planning administration.
+彼は都市計画機関の議員だった。
+My parents went on a wonderful voyage to the Caribbean.
+両親はカリブ海への素晴らしい船旅に出掛けた。
+The river forms a boundary between the two countries.
+その川が両国間の境界線を形作っている。
+Diamond is the hardest substance on earth.
+ダイヤモンドは地上で最も硬い物質だ。
+He invested $1 million in his friend's venture.
+彼は友人の投機的事業に１００万ドルを投資した。
+Nancy confessed her sins to the priest.
+ナンシーは司祭に罪を告白した。
+# ---------- Day 13
+#
+# He is supposed to know the difference between virtue and vice by now.
+# 彼はそろそろ美徳と悪徳の違いが分かってもいいはずだ。
+Nancy was in a rage after after someone damaged her car.
+何者かに車を傷つけられてナンシーは激怒した。
+# Our president promised us prosperity, but now we've all been fired.
+# 社長は繁栄を約束したが、今や私たち全員が解雇された。
+She watched the flames in the fireplace.
+彼女は暖炉の中の炎を見つめた。
+They showed no mercy to the hostages.
+彼らは人質に対して慈悲を見せることはなかった。
+The rear of the bus is emptier.
+バスの後ろの方がより空いている。
+If we don't make haste, we'll be late for the train.
+急がなければ、私たちは電車に遅れてしまうだろう。
+My mother graduated from the Faculty of Commerce.
+私の母は商学部を卒業した。
+She has a deep affection for her son.
+彼女は息子に対して深い愛情を抱いている。
+The departure time of that flight is 9:30 a.m.
+その飛行機の出発時刻は午前９時３０分だ。
+The parade was a splendid spectacle.
+パレードは素晴らしいショーだった。
+I keep packets of dried milk in case of an emergency.
+私は非常時に備えて、粉末ミルク数袋保管している。
+Lemons are rich in citric acid.
+レモンはクエン酸が豊富だ。
+The canals of Venice are popular with tourists.
+ベニスの運河は観光客に人気がある。
+He bought new laces for his old boots.
+彼は古いブーツ用に新しい靴ひもを買った。
+He is a coward and is afraid to speak up to his boss.
+彼は臆病者で、上司に対して率直に意見を言うのを怖がっている。
+# ---------- Day 14
+#
+They are pioneers in the rock music business.
+彼らはロック音楽業界の先駆者たちだ。
+The strain between the two countries is beginning to show.
+両国の間で緊張が現れ始めている。
+We have to do what our conscience tells us.
+私たちは良心が告げることをしなければならない。
+The cold breeze made me feel good after a long day in the office.
+会社での長い１日の後の、冷たいそよ風が心地良かった。
+The mayor was elected three times in a row.
+その市長は３期連続で選ばれた。
+The story is written in verse.
+その物語は韻文で書かれている。
+The company held a reception for its new employees.
+その会社は新しい従業員のために歓迎会を開いた。
+The country lost the war and accepted the term of surrender.
+その国は戦争に負けて、降伏条件を受け入れた。
+# Early pioneers saw the wilderness as dangerous rather than beautiful.
+# 初期の開拓者たちは荒野を美しいというよりも危険だと考えた。
+In Alaska, I ate the flesh of a moose.
+アラスカでムース（ヘラジカ）の肉を食べた。
+The craft is a centuries-old tradition.
+その手工業は何世紀もの歴史をもつ伝統である。
+Legislation against smoking is increasing in many states.
+喫煙に反対する法律が、多くの州で増えている。
+His gift from New York was a subway token.
+彼のニューヨーク土産は地下鉄の代用硬貨だった。
+We reached an accord with the enemy.
+私たちは敵と合意に達した。
+What is the procedure for applying for a visa?
+ビザを申請するための手順はどのようになっていますか。
+The samurai pulled out his sharp sword.
+その侍は鋭い刀を抜いた。
+# ---------- Day 15
+#
